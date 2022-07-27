@@ -30,5 +30,6 @@ module.exports = {
         static: {
             directory: path.join(__dirname),
         },
-    }
+    },
+    devtool: false
 }
