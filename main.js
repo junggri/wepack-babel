@@ -1,5 +1,5 @@
-import {a} from "./scripts/testA"
-import {b} from "./scripts/testB"
+import {a} from "./scripts/love"
+import {b} from "./scripts/you"
 
 console.log(a);
 console.log(b)

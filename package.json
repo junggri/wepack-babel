@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack serve --progress --open"
+    "dev": "webpack serve --progress --open",
+    "mpa": "node MPA/app.js"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +14,7 @@
     "@babel/core": "^7.18.9",
     "@babel/preset-env": "^7.18.9",
     "babel-loader": "^8.2.5",
+    "express": "^4.18.1",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.73.0",

@@ -4,7 +4,7 @@
 
         /***/ "./scripts/testA.js":
         /*!**************************!*\
-          !*** ./scripts/testA.js ***!
+          !*** ./scripts/love.js ***!
           \**************************/
         /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -19,7 +19,7 @@
 
         /***/ "./scripts/testB.js":
         /*!**************************!*\
-          !*** ./scripts/testB.js ***!
+          !*** ./scripts/you.js ***!
           \**************************/
         /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 

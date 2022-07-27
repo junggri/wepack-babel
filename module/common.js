@@ -3,7 +3,7 @@
 
         /***/ "./scripts/testA.js":
         /*!**************************!*\
-          !*** ./scripts/testA.js ***!
+          !*** ./scripts/love.js ***!
           \**************************/
         /***/ ((__unused_webpack_module, exports) => {
 
@@ -16,7 +16,7 @@
 
         /***/ "./scripts/testB.js":
         /*!**************************!*\
-          !*** ./scripts/testB.js ***!
+          !*** ./scripts/you.js ***!
           \**************************/
         /***/ ((__unused_webpack_module, exports) => {
 
@@ -47,7 +47,7 @@
             /******/ 		};
 
                             //module:{
-        //                      ./scripts/testB.js:{
+        //                      ./scripts/you.js:{
                                     //exports:{}
                                 //}
         //                    }
