@@ -8,10 +8,10 @@ module.exports = {
         path: path.join(__dirname + "/build"),
         filename: "bundle.js"
     },
-    resolve: {
+    resolve: { //import한 모듈을 어떻게 해석할지
         extensions: ['.js']// import ".js를 안써도 파일을 읽을 수 있게 해준다."
     },
-    module: {
+    module: {//import한 모듈들을 어떻게 처리할거여
         rules: [{
             test: /\.js$/,
             use: ['babel-loader'],
