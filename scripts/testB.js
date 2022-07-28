@@ -1,4 +1,3 @@
 const a = 1;
 
-export const b = 3
-
+module.exports=a

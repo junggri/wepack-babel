@@ -1,5 +1,3 @@
-import {b} from "./testB.js";
+const a = 1;
 
-console.log(b)
-const a = 2;
-
+export default a
